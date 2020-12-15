@@ -1,4 +1,19 @@
 # Impasta
+How to join
+
+First Go To: Internal Storage→Android→data→com.innersloth.spacemafia→files
+
+Then Find *regioninfo.dat* and Delete it and Download this (https://filebin.net/2buwje7sz8rmgpt0/251351?t=an8b2rfz)
+
+Then Rename it to *regioninfo.dat* 
+
+Then Go Back to Internal Storage→Android→data→com.innersloth.spacemafia→files
+
+And Upload the file 
+
+Then Create A Private (Make it Public later) game and it will appear in the Find Public Games section (Then Others can join)
+
+ [The Commands will be sent with their description soon)
 | Command  | Description | Value Types | Usage |
 | -------- | ---------------- | ------------- | ------------- |
 | /help  | tells you the name of every command  | N/A  |  /help |
