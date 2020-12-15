@@ -5,7 +5,7 @@ First Go To: Internal Storage→Android→data→com.innersloth.spacemafia→fil
 
 Then Find *regioninfo.dat* and Delete it 
 
-Download this:https://www.mediafire.com/file/fo250s1bis2emlm/regionInfo.dat/file
+Download this: https://www.mediafire.com/file/fo250s1bis2emlm/regionInfo.dat/file
 
 Then Go Back to Internal Storage→Android→data→com.innersloth.spacemafia→files
 
