@@ -23,3 +23,5 @@
 -Brown
 -Cyan
 -Lime
+
+In the Among Us lobby, the host can use the /jester on and /jester off commands in the chat to turn the jester role on and off. Additionally, any player can write /jester help to get an explanation about the Jester role.
