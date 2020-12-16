@@ -1,4 +1,24 @@
 # Impasta
+*Impasta*
+*Information and Rules*
+ 
+Impasta is a fun Group Where we Play On a Private Among Us Server with Coustom Gamemodes etc and even and Anti-Cheat to catch the annoying Cheaters.
+
+*Rules and Regulations*
+1.  *Do not Excessively Spam* ( _This includes all kinds of Spamming, Spam on Impasta is generally defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual, that negatively affect the group_ )
+
+2. *Do not Use Hacks or Any Mod that gives you any unfair advantage* ( _This Includes but not limited to, No Cool-Down Timer, Long-Ranged Kills, Being Able To See The Imposter_ )
+
+3. *Do not Harm the Server in any way* 
+( _This Includes but not limited to, DOXing, DDOSing... Etc_ )
+
+4 *Do not abuse you're power*
+(For Example, Banning People without any Valid Reason)
+[ _This only Applies to Admins_ ]
+
+ *5. Do not Steal Personal Information* 
+( _For Example Do not try to grab other's IP's_ )
+
 How to join
 
 First Go To: Internal Storage→Android→data→com.innersloth.spacemafia→files
